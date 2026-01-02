@@ -228,7 +228,7 @@ Finally you are able to find compatible devices! Hola.
 
 **8- Setup SSH to access the container of HAOS**: Once loaded, Click "Settings" icon at lower-left corner.
 
-![HAOS-settings](./assets/haos-01-settings.png)
+![HAOS-settings](./assets/part1-01-settings.png)
 
 Check the "**Settings**" -> "**About**" page:
 
@@ -293,6 +293,7 @@ The save such and exit.
 As such, there will be no "Error 400: Bad Request", nor "Error 500: Bad Gateway".
 
 Hola, Job got done completely.
+
 
 
 
