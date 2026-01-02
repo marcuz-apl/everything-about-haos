@@ -261,11 +261,10 @@ pwd
 ## /root
 whoami
 ## root
-cd config
-nano configuration.yaml
+nano config/configuration.yaml
 ```
 
-Add the following lines and save the .yaml file.
+Add the following lines and save the `config/configuration.yaml` file.
 
 ```text
 http:
@@ -290,11 +289,12 @@ The save such and exit.
 
 
 
-As such, there will be no "Error 400: Bad Request", nor "Error 500: Bad Gateway".
+As such, there will be neither "Error 400: Bad Request", nor "Error 500: Bad Gateway".
 
-Hola, Job got done completely.
+Hola, a beautiful day, isn't it?
 
 
 
 
 ## End
+
